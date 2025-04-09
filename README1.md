@@ -27,3 +27,12 @@ Exemplo
 
 Adicionar todos os arquivos modificados
 ### git add .
+
+Representa um conjunto de alterações em um ponto específico da história de seu projeto, registra apenas as alterações adicionadas ao índice de preparação.
+O comando -m permite que insira a mensagem de commit diretamente na linha de comando
+exemplo de comite
+### git commit -m "Criar página inicial do site"
+
+Enviar os comiits locais, para um repositório remoto
+### git push <remote> <branch>
+### git push origin 1.0
