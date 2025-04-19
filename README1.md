@@ -36,3 +36,17 @@ exemplo de comite
 Enviar os comiits locais, para um repositório remoto
 ### git push <remote> <branch>
 ### git push origin 1.0
+
+Criar nova branch np PC
+### git checkout -b <branch>
+### git checkout -b desenvolvimento
+
+Adicionar todos os arquivo modificados no staging area - area de preparação
+## git add .
+
+Verificar em qual branch esta
+## git branch
+
+Enviar os comiits locais, para um repositório remoto
+### git push <remote> <branch>
+### git push origin desenvolvimento
